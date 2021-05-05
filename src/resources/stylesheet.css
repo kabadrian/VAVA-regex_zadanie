@@ -1,0 +1,17 @@
+.button{
+    -fx-cursor: hand;
+    -fx-background-color: indigo;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-background-radius: 15px;
+}
+
+.button:hover{
+    -fx-background-color: midnightblue;
+}
+
+.text-field, .text-area{
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-font-size: 16px;
+}
